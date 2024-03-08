@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently in my second year as a postgraduate student at the [School of Computer Science and Technology](http://www.cs.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn), where I am pursuing a Master of Science degree. I am also an active member of the Blockchain Research Center at Zhejiang University, under the esteemed guidance of [Prof. Xiaohu Yang](https://person.zju.edu.cn/xiaohu).
+I am currently in my second year as a postgraduate student at the [School of Computer Science and Technology](https://www.cs.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn), where I am pursuing a Master of Science degree. I am also an active member of the Blockchain Research Center at Zhejiang University, under the esteemed guidance of [Prof. Xiaohu Yang](https://person.zju.edu.cn/xiaohu).
 
-Before this, I received the Bachelor's degree from Zhejiang University. During my undergraduate studies, I had the honor of being part of the Advanced Class of Engineering Education at [Chu Kochen Honors College](http://ckc.zju.edu.cn/), surrounded by many outstanding peers and seniors.
+Before this, I received the Bachelor's degree from Zhejiang University. During my undergraduate studies, I had the honor of being part of the Advanced Class of Engineering Education at [Chu Kochen Honors College](https://ckc.zju.edu.cn/), surrounded by many outstanding peers and seniors.
 
 My research interests primarily focus on blockchain, distributed systems, and applied cryptography, with a particular passion for zero-knowledge proofs. I am also captivated by the potential of Web3 and cryptocurrency and I am committed to contributing to a future where privacy, security, and decentralization are paramount.
 
