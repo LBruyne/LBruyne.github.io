@@ -12,7 +12,7 @@ title                    : "Xuanming Liu"
 title_separator          : "-"
 name                     : &name "Xuanming Liu"
 description              : &description "M.Sc. in computer science, Zhejiang University (ZJU)"
-url                      : https://hinsliu.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "//hinsliu.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LBruyne/LBruyne.github.io"
 
