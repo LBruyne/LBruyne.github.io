@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Xuanming Liu"
 title_separator          : "-"
 name                     : &name "Xuanming Liu"
-description              : &description "M.Sc. in computer science, Zhejiang University (ZJU)"
+description              : &description "M.Eng. in Computer Science, Zhejiang University (ZJU)"
 url                      : "//hinsliu.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LBruyne/LBruyne.github.io"
@@ -22,9 +22,9 @@ repository               : "LBruyne/LBruyne.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Xuanming Liu"
+  name             : "Xuanming (Hins) Liu"
   pronouns         : "he/him"
-  bio              : "M.Sc. in computer science, Zhejiang University (ZJU)"
+  bio              : "M.Eng. in Computer Science, Zhejiang University (ZJU)"
   location         : "Hangzhou, China PR"
   employer         : 
   uri              : # URL
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : xuanming-liu-2444ba2a8
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
