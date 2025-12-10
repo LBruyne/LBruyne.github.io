@@ -17,5 +17,7 @@ I have interned at Bytedance, Hyperchain and several other companies in the bloc
 My research interests primarily focus on blockchain, distributed systems, and applied cryptography, with a special passion for zero-knowledge proofs. I am particularly interested in exploring generating proofs for large-scale statements in distributed settings. I am also fascinated by the potential of cryptocurrency, and I am committed to contributing to a future where privacy, security, and decentralization are paramount. 
 <!-- See detailed [research statement](/files/statement.pdf). -->
 
+My research motto is to "conduct useful research and write high-quality code". **I strive to ensure that all my work is openly available and reproducible, and I firmly refrain from any form of research misconduct**.
+
 You can call me Hins (pronounced "Xuan" in Cantonese), inspired by my favorite singer, Hins Cheung. I am a keen soccer enthusiast, with Kevin De Bruyne as my top favorite soccer player, and an avid player of Go (Weiqi).
 
